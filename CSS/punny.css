@@ -1,0 +1,156 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/*section 1*/
+.head{
+    
+    
+    font-size: 1.3rem;
+    font-weight: bold;
+}
+h1{
+    text-align: center;
+    font-weight: bold;
+    font-size: 75px;
+    font-family: sans-serif, Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+header{
+    background-color:black ;
+}
+img{
+    width: 100%;
+    padding: 10px;
+}
+.bg-1{
+    background-color: black;
+}
+.HN{
+    color:red;
+    font-size: 1.5rem;
+}
+/*About*/
+.pro-img{
+    height: 400px;
+    width: 380px;
+}
+.About-image{
+    background-color: black;
+    width: 100%;
+    
+}
+   .App{
+    background-color:blue ;
+}
+
+.Org{
+    background-color: red ;
+}
+.bg-2{
+    background-color:;
+}
+.bg-h{
+  background-color: black;
+}
+/*menu*/
+.Bg-M{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.BookM{
+    width: 30%;
+    border-radius: 50%;
+}
+/*Special*/
+
+.Bg-S{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.BG{
+    width: 100%;
+    border-radius: 30px;
+}
+.fon{
+    font-family: fantasy;
+}
+.fons{
+    font-family: cursive;
+    color:#ef8172
+}
+/*Testimonial*/
+.Bg-T{
+    background-color: #ef8172;
+
+}
+.img-b{
+    width: 100%;
+    border-radius: 50%;
+}
+/*Why us*/
+.Box-s1{
+    width: 350px;
+    height: 250px;
+    background-color: lightgrey;
+}
+.Box-s2{
+    width: 350px;
+    height: 250px;
+    background-color: lightgrey;
+}
+.Box-s3{
+    width: 350px;
+    height: 250px;
+    background-color: lightgrey;
+}
+.bg-h:hover{
+background-color: yellow;
+}
+.bgw{
+    color: #ef8172;
+}
+/*Book table*/
+.butg{
+    background-color:blue;
+    color: #fff;
+    width: 150px;
+    height: 35px;
+    border-radius: 30px;
+}
+.butg:hover{
+    background-color: #ef8172;
+}
+.inp-l{
+    width: 200px;
+    height: 50px;
+    border: 3px solid brown;
+    text-align: center;
+}
+.inp-l2{
+    width: 250px;
+    height: 100px;
+    border: 3px solid brown;
+
+}
+.bord{
+    border-left: 100px solid yellow;
+    border-right: 100px solid yellow;
+}
+.boo{
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+
+/*gallery*/
+.GA{
+width: 100%;
+}
+/* footer*/
+.Bg-f{
+ background-color: black;   
+ color: #fff;
+}
+.ic{
+    color: yellow;
+}
